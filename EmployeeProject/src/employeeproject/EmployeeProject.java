@@ -6,7 +6,6 @@
 package employeeproject;
 
 import java.util.Date;
-
 /**
  *
  * @author User
